@@ -1,5 +1,6 @@
-# 💫 About Me:
-I'm currently learning Cybersecurity
+#  About Me:
+I'm currently learning Cybersecurity.
+And I'm a computer science student.
 
 
 ## 🌐 Socials:
